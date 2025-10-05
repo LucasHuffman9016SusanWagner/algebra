@@ -142,3 +142,5 @@ assert_eq!(g_prime.evaluate(&random_point), g.evaluate(&random_point));
 ## Domains
 
 TODO
+
+<!-- Auto-update: 2025-10-05T12:41:30.472962 -->
